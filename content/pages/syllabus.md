@@ -22,11 +22,48 @@ What is the relationship between infrastructure and economic growth and developm
 Assignments and Grading
 -----------------------
 
-| ASSIGNMENTS | PERCENTAGES |
-| --- | --- |
-| 4 two-page reaction papers | 50% |
-| 1 25-page final research paper | 40% |
-| Class Participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4 two-page reaction papers
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 25-page final research paper
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The final research paper, not exceeding 25 pages (double spaced) should be on a topic related to energy infrastructure. Students will present a summary of their papers during the last week of the term. Emphasis is on the quality of the writing.
 
